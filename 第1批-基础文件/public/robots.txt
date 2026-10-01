@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aicpt-memo.cn/sitemap.xml
